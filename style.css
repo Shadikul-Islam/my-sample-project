@@ -1166,7 +1166,7 @@ form textarea {
     margin-bottom: 30px;
     display: inline-block; }
   .slogan-title {
-      font-size: 55px;
+      font-size: 50px;
       line-height: 1.2;
       font-weight: 700;
       text-shadow: 0 2px 1px rgba(0, 0, 0, 0.3);
@@ -1174,7 +1174,7 @@ form textarea {
   }
   
   .other-title {
-      font-size: 28px; /* Adjust this value for your desired font size */
+      font-size: 26px; /* Adjust this value for your desired font size */
       line-height: 1.2;
       font-weight: 700;
       text-shadow: 0 2px 1px rgba(0, 0, 0, 0.3);
